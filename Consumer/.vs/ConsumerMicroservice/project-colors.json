@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "deeb4421-1060-4cfa-8308-0a7dca29c866": {
+      "ProjectGuid": "deeb4421-1060-4cfa-8308-0a7dca29c866",
+      "DisplayName": "ConsumerMicroservice",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

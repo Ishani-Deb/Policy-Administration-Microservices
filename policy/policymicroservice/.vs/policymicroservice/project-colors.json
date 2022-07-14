@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "28bec9c3-c093-4e84-966e-b3a50cad1458": {
+      "ProjectGuid": "28bec9c3-c093-4e84-966e-b3a50cad1458",
+      "DisplayName": "policymicroservice",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

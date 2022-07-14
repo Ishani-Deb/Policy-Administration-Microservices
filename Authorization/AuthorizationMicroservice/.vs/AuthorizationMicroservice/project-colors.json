@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1f6ec1c3-edbf-488e-84a2-29278eba097c": {
+      "ProjectGuid": "1f6ec1c3-edbf-488e-84a2-29278eba097c",
+      "DisplayName": "AuthorizationMicroservice",
+      "ColorIndex": 0
+    },
+    "37bffb1e-318b-47b2-89e6-bf708fcb50f0": {
+      "ProjectGuid": "37bffb1e-318b-47b2-89e6-bf708fcb50f0",
+      "DisplayName": "AuthorizationMicroservice.Test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
